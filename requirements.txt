@@ -1,5 +1,4 @@
 discord.py
 fortnitepy
 firebase-admin
-aioxmpp
 lxml>=5.2.0
