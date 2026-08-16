@@ -1,3 +1,4 @@
 discord.py
 fortnitepy
 firebase-admin
+lxml>=5.2.0
